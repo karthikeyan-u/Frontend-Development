@@ -1,0 +1,65 @@
+[33mcommit bb7bd314c82b236bde298595e4e9487b4be595f5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: karthikeyan-u <karthikeyan_u@outlook.com>
+Date:   Wed Aug 22 21:47:22 2018 +0530
+
+    added xternal css & js
+
+[33mcommit c210c6425b2e9e8dd74203f6ab43910bc9d0586b[m
+Author: karthikeyan-u <karthikeyan_u@outlook.com>
+Date:   Wed Aug 22 20:42:09 2018 +0530
+
+    Heading color changed - inline
+
+[33mcommit f0056765978dd8d21339bf1b1bebb450b983d9d0[m
+Author: karthikeyan-u <karthikeyan_u@outlook.com>
+Date:   Wed Aug 22 20:33:48 2018 +0530
+
+    All caps <h1>tag
+
+[33mcommit 9736d658dd8ee49d43472038d29f4769708ea87a[m
+Author: karthikeyan-u <karthikeyan_u@outlook.com>
+Date:   Wed Aug 22 20:23:44 2018 +0530
+
+    Website deleted
+
+[33mcommit 0ec75a87b939a52bbbb425805c186785765c46ca[m
+Author: karthikeyan-u <karthikeyan_u@outlook.com>
+Date:   Wed Aug 22 20:21:21 2018 +0530
+
+    My first Page.
+
+[33mcommit 799e63a1fb4f0d6abba1c93ac646c1638d901367[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Author: karthikeyan-u <36667264+karthikeyan-u@users.noreply.github.com>
+Date:   Wed Aug 22 19:51:20 2018 +0530
+
+    Create README.md
+
+[33mcommit 9ebcbc0c684212447e019078e5bfe525b6dfdbfe[m
+Author: karthikeyan-u <36667264+karthikeyan-u@users.noreply.github.com>
+Date:   Wed Aug 22 19:18:21 2018 +0530
+
+    Delete README.md
+
+[33mcommit 3aee6e2d7c97046b9ce245ceaf5b0c8a370e74fb[m
+Author: karthikeyan-u <36667264+karthikeyan-u@users.noreply.github.com>
+Date:   Wed Aug 22 19:13:22 2018 +0530
+
+    Delete _config.yml
+
+[33mcommit a404a7cc3ce3b8750ff9f164cf7c08d5fc8241dd[m
+Author: karthikeyan-u <36667264+karthikeyan-u@users.noreply.github.com>
+Date:   Wed Aug 22 19:09:41 2018 +0530
+
+    Update README.md
+
+[33mcommit af8107ea5134b448df06256f72919cf4c59a0fce[m
+Author: karthikeyan-u <36667264+karthikeyan-u@users.noreply.github.com>
+Date:   Wed Aug 22 19:08:20 2018 +0530
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit 032bcb922c7c4fad184638c12b2d5a8cf659a322[m
+Author: karthikeyan-u <36667264+karthikeyan-u@users.noreply.github.com>
+Date:   Wed Aug 22 18:21:46 2018 +0530
+
+    Initial commit
